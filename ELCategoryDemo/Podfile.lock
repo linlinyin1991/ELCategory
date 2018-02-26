@@ -1,0 +1,16 @@
+PODS:
+  - ELCategory (0.0.1)
+
+DEPENDENCIES:
+  - ELCategory (from `../`)
+
+EXTERNAL SOURCES:
+  ELCategory:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ELCategory: f9bc02f55c4e15aa4dca6854df8f4d592f312cb1
+
+PODFILE CHECKSUM: 57310eb1255a563423f96f5db86109eb865b493f
+
+COCOAPODS: 1.4.0

@@ -1,0 +1,28 @@
+{
+  "name": "ELCategory",
+  "version": "0.0.1",
+  "summary": "OC常用基础类型的Category",
+  "description": "TODO: OC常用基础类型的Category，方便之后创建新工程的时候使用.",
+  "homepage": "https://github.com/linlinyin1991/ELCategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ElaineYin": "linlinyin1991@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://github.com/linlinyin1991/ELCategory.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "ELKitSDK/{UIView,NSDate,UIColor,NSString}+ELExtension.{h,m}",
+    "ELKitSDK/ELCategory.h"
+  ],
+  "public_header_files": "ELCategory/ELCategory.h",
+  "requires_arc": true,
+  "frameworks": "UIKit"
+}
